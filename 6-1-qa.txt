@@ -1,0 +1,13 @@
+Quality Assurance
+
+a. Employee 
+https://trello.com/invite/b/S8PNrsQd/9b8b7327955bae827aa8e0191609afc3/6-1-qa-employee
+
+b. Enter Wanted
+https://trello.com/invite/b/SnVHmAoi/3c0a64dea3e4da79e4429865d5f7a232/6-1-qa-enter-wanted
+
+c. Yoodlize
+https://trello.com/invite/b/thMES4Jc/7567135bedf06d42ee483ebd3a83d2f4/6-1-qa-yoodlize
+
+d. imdb
+https://trello.com/invite/b/oYsr4oFG/7c3a563f2ffc5fec5515968342f0d174/6-1-qa-imdb
